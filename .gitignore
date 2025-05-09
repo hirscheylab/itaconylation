@@ -3,5 +3,6 @@
 .RData
 .Ruserdata
 .Renviron
+*.Rproj
 # Ignore all directories named 'data' anywhere in the repository
 **/data/
